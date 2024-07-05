@@ -1,0 +1,27 @@
+
+main{
+    display: flex;
+}
+.secciones{
+    color:rgb(18, 1, 255) ; 
+    background-color: #D5B50E;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+    border: solid 4px black;
+    margin: 10px;
+    padding: 15px;
+}
+
+#academia{
+    background-size: contain;
+    background-image: url(https://media.discordapp.net/attachments/1197359327476994059/1243043794019155988/Captura_de_pantalla_2024-05-22_213115.png?ex=668811ff&is=6686c07f&hm=da1be131e5c3ff4d435296f7896d49222f4afc16c64730478de58b879453e5db&=&format=webp&quality=lossless&width=873&height=491); 
+    
+}
+#academia {
+    background-color: beige;
+}
+
+h2{
+    border: dashed 2px black;
+
+}
